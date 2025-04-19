@@ -5,5 +5,8 @@
 	"editor.formatOnSave": true,
 	"prettier.useTabs": true,
 	"prettier.tabWidth": 4,
-	"prettier.configPath": ".prettierrc"
+	"prettier.configPath": ".prettierrc",
+	"git.terminalAuthentication": false,
+	"git.useEditorAuthentication": false,
+	"git.autofetch": true
 }
